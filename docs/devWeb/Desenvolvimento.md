@@ -4,49 +4,57 @@
 testes e padronizações. Também é importante que a equipe saiba como as pessoas com deficiência usam os sítios web e aplicativos". Nesse caso, foram incluídas técnicas relacionadas ao desenvolvimento e também formas de verificar.
 
 ## Imagens
-- [x] <b> Adicionar ``` alt ``` </b> para imagens, botões-imagem, gráficos e imagens de mapas com pontos de acesso. <a id="TEC1" href="#RP1">[1]</a>
+
+- [ ] <b> Adicionar ``` alt ``` </b> para imagens, botões-imagem, gráficos e imagens de mapas com pontos de acesso. <a id="TEC1" href="#RP1">[1]</a>
 - [ ] <b> Adicionar ``` alt="" ``` </b> para imagens decorativas que não tem significado. <a id="TEC1" href="#RP1">[1]</a>
 - [ ] <b> Incluir a descrição no ``` alt ```</b> para imagens que contém texto. <a id="TEC1" href="#RP1">[1]</a>
 
 ## Vídeos
+
 - [ ] <b> Adicionar legendas</b> para áudio em vídeos existentes. <a id="TEC2" href="#RP2">[2]</a>
-- [x] <b> Evitar conteúdo com <i>flashes</i> (gatilhos para convulsões)</b> ou manter abaixo dos limites. <a id="TEC3" href="#RP3">[3]</a>
+- [ ] <b> Evitar conteúdo com <i>flashes</i> (gatilhos para convulsões)</b> ou manter abaixo dos limites. <a id="TEC3" href="#RP3">[3]</a>
 
 ## Controles
-- [x] <b> Adicionar ``` href ```</b> para links. <a id="TEC4" href="#RP4">[4]</a>
-- [x] <b> Adicionar underline</b> nos links. <a id="TEC5" href="#RP5">[5]</a>
-- [x] <b> Adicionar estados de foco</b> em campos de entrada, botões, e elementos interativos. <a id="TEC6" href="#RP6">[6]</a>
-- [x] <b> Adicionar ```type="button"```</b> nos botões. <a id="TEC4" href="#RP4">[4]</a>
-- [x] <b> Adicionar skip-link </b> (link para pular) para o conteúdo principal. <a id="TEC7" href="#RP7">[7]</a>
-- [x] <b> Identifique e comunique </b> links que abrem em uma nova guia ou janela. <a id="TEC8" href="#RP8">[8]</a>
+
+- [ ] <b> Adicionar ``` href ```</b> para links. <a id="TEC4" href="#RP4">[4]</a>
+- [ ] <b> Adicionar ```type="button"```</b> nos botões. <a id="TEC4" href="#RP4">[4]</a>
+- [ ] <b> Adicionar underline</b> nos links. <a id="TEC5" href="#RP5">[5]</a>
+- [ ] <b> Adicionar estados de foco</b> em campos de entrada, botões, e elementos interativos. <a id="TEC6" href="#RP6">[6]</a>
+- [ ] <b> Adicionar skip-link </b> (link para pular) para o conteúdo principal. <a id="TEC7" href="#RP7">[7]</a>
+- [ ] <b> Identifique e comunique </b> links que abrem em uma nova guia ou janela. <a id="TEC8" href="#RP8">[8]</a>
 
 ## Formulário
-- [x] <b> Adicionar ``` label ```</b> para os campos de entradas associadas ao elemento correspondente. <a id="TEC9" href="#RP9">[9]</a>
+
+- [ ] <b> Adicionar ``` label ```</b> para os campos de entradas associadas ao elemento correspondente. <a id="TEC9" href="#RP9">[9]</a>
 - [ ] <b> Adicionar ``` <fildset> ``` e ``` <legend> ```</b> para seção no formulário. <a id="TEC4" href="#RP4">[4]</a>
-- [x] <b> Adicionar ``` autocomplete ```</b> para campos de entrada. <a id="TEC10" href="#RP10">[10]</a>
+- [ ] <b> Adicionar ``` autocomplete ```</b> para campos de entrada. <a id="TEC10" href="#RP10">[10]</a>
 - [ ] <b> Exibir ``` errors ``` </b> (erros) de entrada acima do formulário, após envio. <a id="TEC11" href="#RP11">[11]</a>
-- [x] <b> Adicionar ``` aria-describedby ```</b> para os campos de entrada. <a id="TEC11" href="#RP11">[11]</a>
+- [ ] <b> Adicionar ``` aria-describedby ```</b> para os campos de entrada. <a id="TEC11" href="#RP11">[11]</a>
 - [ ] <b> Exibir mensagens de erro e sucesso</b> não só visualmente. <a id="TEC5" href="#RP5">[5]</a>
 
 ## Mídia
-- [x] <b> Impedir ``` autoplay ```</b> para vídeos e audios. <a id="TEC12" href="#RP12">[12]</a>
+
+- [ ] <b> Impedir ``` autoplay ```</b> para vídeos e audios. <a id="TEC12" href="#RP12">[12]</a>
 - [ ] <b> Adicionar ``` type ```</b> para botões e entradas. <a id="TEC4" href="#RP4">[4]</a>
-- [x] <b> Adicionar pausa </b> para todas as mídias. <a id="TEC13" href="#RP13">[13]</a>
-- [x] <b> Adicionar transcrição </b> para audios. <a id="TEC1" href="#RP1">[1]</a>
+- [ ] <b> Adicionar pausa </b> para todas as mídias. <a id="TEC13" href="#RP13">[13]</a>
+- [ ] <b> Adicionar transcrição </b> para audios. <a id="TEC1" href="#RP1">[1]</a>
 
 ## Semântica
-- [x] Uso de elementos <b>nativos HTML</b>. 
-- [x] Fluxo continuo e <b>Lógico</b>. 
-- [x] Tem <b>descrições</b> que podem ser <b>facilmente compreendidas</b>. 
-- [x] Tem a <b>semântica correta</b>. 
-- [x] É <b>objetivo</b> nos <b>rótulos</b>. 
+
+- [ ] Uso de elementos <b>nativos HTML</b>. 
+- [ ] Fluxo continuo e <b>Lógico</b>. 
+- [ ] Tem <b>descrições</b> que podem ser <b>facilmente compreendidas</b>. 
+- [ ] Tem a <b>semântica correta</b>. 
+- [ ] É <b>objetivo</b> nos <b>rótulos</b>. 
 
 ## Texto
+
 - [ ] <b>Evitar</b> o uso de <b>textos dentro de imagens</b>. 
-- [x] <b>Redimensiona os textos na página</b>, aumentando o zoom em até 200%. 
-- [x] <b>Alturas </b> das fontes <b> não é fixa </b>. 
+- [ ] <b>Redimensiona os textos na página</b>, aumentando o zoom em até 200%. 
+- [ ] <b>Alturas </b> das fontes <b> não é fixa </b>. 
 
 ## Teclado
+
 - [ ] <b> Funcionalidades </b> da página web estão <b> disponíveis por teclado </b>. 
 - [ ] Quando se tem o <b>mouseover é permitido o uso de teclado </b>. 
 - [ ] <b>Foco visível</b> remova elementos focalizáveis ​​invisíveis. 
@@ -55,17 +63,20 @@ testes e padronizações. Também é importante que a equipe saiba como as pesso
 - [ ] <b> Primeiro </b> item interativo da página é um link para o <b> conteúdo principal </b>. 
 
 ## Título
+
 - [ ] A <b>hierarquia</b> de conteúdo da página é definida por sua <b>lógica</b> não pelo tamanaho do texto. <a id="TEC17" href="#RP17">[17]</a>
 - [ ] Use <b>elementos de título  ``` h1 h2 h3 ```</b> para apresentar o conteúdo.<a id="TEC17" href="#RP17">[17]</a>
 - [ ] <b>Não pular níveis lógicos</b>.
 - [ ] <b>Toda página contem um título  ``` h1 ```</b> descrevendo a página. <a id="TEC17" href="#RP17">[17]</a></b><a id="TEC19" href="#RP19">[19]</a>
 
 ## Tabela
+
 - [ ] <b> Use o ``` table ``` </b> para elementos em formato de tabela.  <a id="TEC4" href="#RP4">[4]</a>
 - [ ] Insira cabeçalhos para explicar os dados, <b>use ``` th ``` com  ``` scope ``` correto</b>.<a id="TEC15" href="#RP15">[15]</a>
 - [ ] <b> Use o ``` captione ``` </b> lemento para fornecer um título para a tabela.<a id="TEC17" href="#RP17">[17]</a>
 
 ## Modais
+
 - [ ] Deve ser <b> fácil fechar </b>.<a id="TEC19" href="#RP19">[19]</a>
 - [ ] Permiti o <b> uso da tecla escape ``` ESC ```</b>.</b><a id="TEC19" href="#RP19">[19]</a>
 - [ ] A interação é  uma <b> tarefa simples</b>.</b><a id="TEC19" href="#RP19">[19]</a>
@@ -73,10 +84,11 @@ testes e padronizações. Também é importante que a equipe saiba como as pesso
 - [ ] <b> Não abrir um modal a partir de outro modal </b>.</b><a id="TEC19" href="#RP19">[19]</a>
 
 ## Dispositivo Móvel e tocável
-- [ ] O site pode ser <b> rotacionado </b> para qualquer orientação.  <a id="TEC15" href="#RP15">[15]</a>
-- [ ] <b> Impedir </b> rolgem horizontal. <a id="TEC16" href="#RP15">[16]</a>
-- [ ] <b> Garantir </b> que botões e links possam ser ativados facilmente. <a id="TEC18" href="#RP18">[18]</a>
+
 - [ ] <b> Garantir </b> espaço suficiente entre elementos interativos. <a id="TEC7" href="#RP7">[7]</a>
+- [ ] O site pode ser <b> rotacionado </b> para qualquer orientação.  <a id="TEC15" href="#RP15">[15]</a>
+- [ ] <b> Impedir </b> rolagem horizontal. <a id="TEC16" href="#RP15">[16]</a>
+- [ ] <b> Garantir </b> que botões e links possam ser ativados facilmente. <a id="TEC18" href="#RP18">[18]</a>
 
 ## Ferramentas e extras
 - [ ] Permiti <b> pausar, parar ou ocultar conteúdo em movimento </b>.
