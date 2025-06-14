@@ -1,0 +1,39 @@
+# Nome do robô, que aparecerá na aba "Actions" do GitHub
+name: Publicar Documentação no GitHub Pages
+
+# Gatilho: Quando o robô deve agir?
+on:
+  # Age toda vez que houver um 'push' (envio de código)
+  push:
+    # Apenas no branch 'main'. Assim, mudanças em outros branches não publicam o site.
+    branches:
+      - main
+
+# Tarefas: O que o robô deve fazer?
+jobs:
+  # Nome da tarefa (pode ser qualquer nome)
+  publicar-site:
+    # O tipo de máquina que o robô usará. 'ubuntu-latest' é padrão e funciona bem.
+    runs-on: ubuntu-latest
+
+    # O passo-a-passo que o robô seguirá
+    steps:
+      # Passo 1: Baixar o código do seu repositório para a máquina do robô
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      # Passo 2: Configurar o ambiente Python, necessário para o MkDocs
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      # Passo 3: Instalar as ferramentas (MkDocs e os pacotes que seu site usa)
+      # ESSA LINHA É IMPORTANTE! Incluímos tudo que seu `mkdocs.yml` precisa.
+      - name: Instalar dependências
+        run: pip install mkdocs mkdocs-readthedocs-theme pymdown-extensions
+
+      # Passo 4: Rodar o comando de publicação que você já conhece!
+      # O robô está fazendo o seu trabalho manual por você.
+      - name: Publicar site com MkDocs
+        run: mkdocs gh-deploy --force
