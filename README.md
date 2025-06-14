@@ -1,4 +1,4 @@
-# AcessaAí
+# AcessAí
 
 <div align="center">
 <img src="docs/imagens/Acessaí.png" alt="Logo de uma lâmpada amarela com a base azulada, com 'AcessAí' escrito logo acima" style="width: 250px">
