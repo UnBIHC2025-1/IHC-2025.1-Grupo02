@@ -1,5 +1,5 @@
 # CONFIGURAÇÃO DO SITE
-site_name: AcessAAí
+site_name: AcessAí
 site_url: https://unbihc2025-1.github.io/IHC-2025.1-Grupo02/
 use_directory_urls: false
 
@@ -21,8 +21,8 @@ nav:
 theme:
   name: readthedocs
   locale: pt_BR
-  logo: imagens/logo-verificaaa.png
-  favicon: imagens/logo-verificaaa.png
+  logo: imagens/Acessaí.png
+  favicon: imagens/Acessaí.png
 
 # EXTENSÕES MARKDOWN
 markdown_extensions:
