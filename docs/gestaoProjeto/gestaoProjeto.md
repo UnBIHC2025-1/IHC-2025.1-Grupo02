@@ -19,7 +19,7 @@ Em seu projeto, foram elaboradas personas para...
 
 "Na iniciação do projeto, é necessário garantir que a equipe de projeto esteja consciente sobre a questão da acessibilidade digital, dos direitos das pessoas com deficiência e do potencial de mercado desse público" <a id="TEC1" href="#RP1">[1]</a>.
 
-Sendo assim, existem conhecimentos que podem facilitar o processo de conscientização da equipe sobre a questão da acessibilidade digital. Esses conhecimentos estão representados no checklist abaixo. Estes conheicmentos estão divididos, dentro desta lista, em **Contexto Social**(quem são, quantos são, tipos de), **impacto no nercado**, **obrigatoriedade legal** e **visiabilidade de implementação** (custo, tempo).
+Sendo assim, existem conhecimentos que podem facilitar o processo de conscientização da equipe sobre a questão da acessibilidade digital. Esses conhecimentos estão representados no checklist abaixo. Estes conhecimentos estão divididos, dentro desta lista, em **Contexto Social** (quem são, quantos são, tipos de), **Impacto no Mercado**, **Obrigatoriedade Legal** e **Visiabilidade de Implementação** (custo, tempo).
 
 Em seu projeto, a equipe está consciente de...
 
