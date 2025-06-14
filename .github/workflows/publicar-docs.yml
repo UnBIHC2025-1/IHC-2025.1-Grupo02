@@ -31,7 +31,7 @@ jobs:
       # Passo 3: Instalar as ferramentas (MkDocs e os pacotes que seu site usa)
       # ESSA LINHA É IMPORTANTE! Incluímos tudo que seu `mkdocs.yml` precisa.
       - name: Instalar dependências
-        run: pip install mkdocs mkdocs-readthedocs-theme pymdown-extensions
+        run: pip install mkdocs pymdown-extensions
 
       # Passo 4: Rodar o comando de publicação que você já conhece!
       # O robô está fazendo o seu trabalho manual por você.
