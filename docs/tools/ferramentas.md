@@ -11,4 +11,7 @@ Para auxiliar e facilitar o desenvolvimento de soluções acessíveis, foram ele
 - [AXE - Accessibility engine for automated Web UI testing](https://github.com/dequelabs/axe-core)
 - [Lighthouse - Google - Auditar acessibilidade](https://developer.chrome.com/docs/lighthouse)
 - [WebAim - Contrast Checker](https://webaim.org/resources/contrastchecker/)
-
+- [Acessible Colors - Hex Codes em WCAG](https://accessible-colors.com)
+- [NVA - Leitor gratuito](https://www.nvaccess.org/)
+- [Pally - executa testes automatizados de acessibilidade](https://pa11y.org/)
+- [Funkify - Simula diferentes deficiências no navegador](https://www.funkify.org/)
