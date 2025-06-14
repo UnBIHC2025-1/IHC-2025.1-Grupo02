@@ -9,17 +9,18 @@
 - [ ] <b> Descrever os controles</b> pelo nome, não apenas pela aparência ou localização. <a id="TEC3"href="#RP3">[3]</a>
 - [ ] <b> Garantir que dicas visuais</b> significativas atinjam 3:1 em relação ao fundo. <a id="TEC4" href="#RP4">[4]</a>
 - [ ] <b> Fazer com que as linhas</b> de texto se ajustem ao viewport. <a id="TEC5"href="#RP5">[5]</a>
+- [ ] <b> Permite que o usuário navegue pelos conteúdos facilmente </b> <a id="TEC10" href="#RP10">[10]</a>
+- [ ] <b> Fontes são fluidas </b> e de fácil entendimento. <a id="TEC11" href="#RP11">[11]</a>
 - [ ] Oferece uma <b> opção de alto contraste </b> (dark-mode) de suas páginas web e aumento de fontes.
 - [ ] Parágrafos com no <b> máximo 80 caracteres por linha </b>.
 - [ ] <b> Evita </b> o uso de <b> textos longos em caixa alta ou condensados </b>.
 - [ ] Evita o alinhamento justificado.
-- [ ] <b> Fontes são fluidas </b> e de fácil entendimento.
 - [ ] Toma o devido cuidado com <b>``` display:none ``` e ``` visibility:hidden ``` para os recursos de tecnologia assistiva</b>
 - [ ] Preferir <b> botões com texto e ícone </b>. E botões apenas com ícones tem o nome acessível.
 
 ## Animação
-- [ ] <b> Evitar conteúdo que pisque</b>, ou mantenha-o abaixo dos limites. <a id="TEC6" href="#RP6">[6]</a>
-- [ ] <b> Permitir que os usuários controlem as alterações de conteúdo</b> que ocorrem em paralelo com outro conteúdo. <a id="TEC7" href="#RP7">[7]</a>
+- [ ] <b> Evita conteúdo que pisque</b>, ou mantenha-o abaixo dos limites. <a id="TEC6" href="#RP6">[6]</a>
+- [ ] <b> Permite que os usuários controlem as alterações de conteúdo</b> que ocorrem em paralelo com outro conteúdo. <a id="TEC7" href="#RP7">[7]</a>
 - [ ] <b> Toda a animação</b> deve obedecer à ```prefers-reduced-motion``` consulta de mídia. <a id="TEC8" href="#RP8">[8]</a>
 
 ## Contraste de Cores
@@ -49,6 +50,10 @@
 > <a id="RP8" href="#TEC8">8.</a> WCAG 2.2 Understanding Docs. SC 2.3.3 Animation from Interactions (Level AAA). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html](https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html). Acesso em: 9 Mai. 2024.
 
 > <a id="RP9" href="#TEC9">9.</a> WCAG 2.2 Understanding Docs. SC 1.4.3 Contrast (Minimum) (Level AA). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html). Acesso em: 9 Mai. 2024.
+
+> <a id="RP10" href="#TEC10">10.</a> WCAG 2.2 Understanding Docs. SC 2.4.5 Multiple Ways (Level AA). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/navigable](https://www.w3.org/WAI/WCAG22/Understanding/navigable). Acesso em: 14 jun. 2025.
+
+> > <a id="RP11" href="#TEC11">11.</a> WCAG 2.2 Understanding Docs. SC 3.1.1 Language of Page (Level A). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/readable](https://www.w3.org/WAI/WCAG22/Understanding/readable). Acesso em: 14 jun. 2025.
 
 ## Bibliografia
 
