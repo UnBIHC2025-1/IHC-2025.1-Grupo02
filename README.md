@@ -1,17 +1,24 @@
-# VerificaAAA
+# AcessaAí
 
 <div align="center">
-<img src="docs/imagens/logo-verificaaa.png" alt="Logo de prancheta com checklist" style="width: 100px">
+<img src="docs/imagens/Acessaí.png" alt="Logo de uma lâmpada amarela com a base azulada, com 'AcessAí' escrito logo acima" style="width: 100px">
 </div>
 
 
 ## Introdução
 
-Este repositório tem como propósito fornecer um checklist prático de acessibilidade para projetos, principalmente de desenvolvimento de software, que incluem: desenvolvimento web, design, geração de conteúdo e gestão de projetos. 
+Este repositório tem como propósito fornecer um checklist prático de acessibilidade para projetos, principalmente voltados ao desenvolvimento de software. O conteúdo aqui presente abrange múltiplas áreas, como:
 
-## VerificaAAA
+- **Desenvolvimento Web**
+- **Design de Interfaces (UX/UI)**
+- **Criação de Conteúdo**
+- **Gestão de Projetos**
 
-O VerificaAAA é nome do projeto criado a partir do curso de Interação Humano Computador, ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB). 
+O checklist é ideal tanto para validação manual quanto como guia durante o desenvolvimento, podendo ser incluído em fluxos de _code review, QA, planejamento de sprints e testes de usabilidade_.
+
+## AcessAí
+
+O AcessAí é nome do projeto criado a partir do curso de Interação Humano Computador, ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB). 
 
 ## Contribuidores
 
