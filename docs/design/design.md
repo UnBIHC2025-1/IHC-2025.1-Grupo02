@@ -6,9 +6,9 @@
 - [ ] <b> Adicionar instrução</b> que não <b>dependa exclusivamente da cor</b>. <a id="TEC1" href="#RP1">[1]</a>
 - [ ] <b> Adicionar informação</b> (como gráficos e diagramas) que não <b>dependa exclusivamente da cor</b>. <a id="TEC1" href="#RP1">[1]</a>
 - [ ] <b> Tamanho do texto ajustável</b> para permitir ampliação. <a id="TEC2" href="#RP2">[2]</a>
-- [ ] <b> Descrever os controles</b> pelo nome, não apenas pela aparência ou localização. <a id="TEC3"href="#RP3">[3]</a>
+- [ ] <b> Descrever os controles</b> pelo nome, não apenas pela aparência ou localização. <a id="TEC3" href="#RP3">[3]</a>
 - [ ] <b> Garantir que dicas visuais</b> significativas atinjam 3:1 em relação ao fundo. <a id="TEC4" href="#RP4">[4]</a>
-- [ ] <b> Fazer com que as linhas</b> de texto se ajustem ao viewport. <a id="TEC5"href="#RP5">[5]</a>
+- [ ] <b> Fazer com que as linhas</b> de texto se ajustem ao viewport. <a id="TEC5" href="#RP5">[5]</a>
 - [ ] <b> Permite que o usuário navegue pelos conteúdos facilmente </b> <a id="TEC10" href="#RP10">[10]</a>
 - [ ] <b> Fontes são fluidas </b> e de fácil entendimento. <a id="TEC11" href="#RP11">[11]</a>
 - [ ] Oferece uma <b> opção de alto contraste </b> (dark-mode) de suas páginas web e aumento de fontes.
