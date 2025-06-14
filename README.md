@@ -20,8 +20,16 @@ O checklist é ideal tanto para validação manual quanto como guia durante o de
 
 O AcessAí é nome do projeto criado a partir do curso de Interação Humano Computador, ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB). 
 
-## Contribuidores
+## Contribuidores AcessAí
 
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/arthurevg"><img style="border-radius: 50%;" src="https://github.com/arthurevg.png" width="100px;" alt=""/><br /><sub><b>Arthur Evangelista</b></sub></a><br />
+<td align="center"><a href="https://github.com/Faehzin"><img style="border-radius: 50%;" src="https://github.com/Faehzin.png" width="100px;" alt=""/><br /><sub><b>Gabriel Sampaio</b></sub></a><br />   
+  </tr>
+  </table>
+
+## Equipe VerificAAA
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vitorfleonardo"><img style="border-radius: 50%;" src="https://github.com/vitorfleonardo.png" width="100px;" alt=""/><br /><sub><b>Vitor Feijó</b></sub></a><br />
