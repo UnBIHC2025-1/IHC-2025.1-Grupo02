@@ -6,35 +6,35 @@ Nessa lógica, durante a etapa inicial do desenvolvimento de um software, elabor
 
 Em seu projeto, foram elaboradas personas para... 
 
-- [ ] <b> Pessoas com Deficiência Visual </b> (cegueira, baixa visão, daltonismo ou deficiência cromática)
-- [ ] <b> Pessoas com Deficiência Física </b> (fraqueza, tremores, movimentos involuntá rios, paralisia, limitações da sensação, dor que impede movimento, ausênciade membros) 
-- [ ] <b> Pessoas com Deficiência Auditiva </b> (surdez, baixa audição, surdocegueira)
-- [ ] <b> Pessoas com Deficiência na Fala </b> (dificuldade para falar, volume insuficiente, gagueira, mudez) 
-- [ ] <b> Pessoas Neurodiversas </b> (dificuldades de diferentes graus para ver, escutar, falar, compreender e interagir socialmente)
-- [ ] <b> Pessoas com Múltiplas Deficiências </b> (combinação de duas ou mais deficiências anteriores)
-- [ ] <b> Possíveis limitações decorrentes do envelhecimento </b> (que podem ser de um ou mais grupos de deficiências)
-- [ ] <b> Pessoas com analfabetismo </b> (analfabetismo digital e funcional níveis 1, 2 e 3)
+- [ ] <b> Pessoas com Deficiência Auditiva </b> (surdez, baixa audição, surdocegueira)  
+- [ ] <b> Pessoas com Deficiência Física </b>  (fraqueza, tremores, movimentos involuntários, paralisia, limitações da sensação, dor que impede movimento, ausência de membros)  
+- [ ] <b> Pessoas com Deficiência na Fala </b> (dificuldade para falar, volume insuficiente, gagueira, mudez)  
+- [ ] <b> Pessoas com Deficiência Visual </b> (cegueira, baixa visão, daltonismo ou deficiência cromática)  
+- [ ] <b> Pessoas com Múltiplas Deficiências </b> (combinação de duas ou mais deficiências anteriores)  
+- [ ] <b> Pessoas com analfabetismo </b> (analfabetismo digital e funcional níveis 1, 2 e 3)  
+- [ ] <b> Pessoas Neurodiversas </b> (dificuldades de diferentes graus para ver, escutar, falar, compreender e interagir socialmente)  
+- [ ] <b> Possíveis limitações decorrentes do envelhecimento </b>  (que podem ser de um ou mais grupos de deficiências)  
 
 # Conscientização
 
 "Na iniciação do projeto, é necessário garantir que a equipe de projeto esteja consciente sobre a questão da acessibilidade digital, dos direitos das pessoas com deficiência e do potencial de mercado desse público" <a id="TEC1" href="#RP1">[1]</a>.
 
-Sendo assim, existem argumentos que podem facilitar o processo de conscientização da equipe sobre a questão da acessibilidade digital. Esse argumentos estão representados no checklist abaixo. 
+Sendo assim, existem conhecimentos que podem facilitar o processo de conscientização da equipe sobre a questão da acessibilidade digital. Esses conhecimentos estão representados no checklist abaixo. Estes conheicmentos estão divididos, dentro desta lista, em **Contexto Social**(quem são, quantos são, tipos de), **impacto no nercado**, **obrigatoriedade legal** e **visiabilidade de implementação** (custo, tempo).
 
 Em seu projeto, a equipe está consciente de...
 
-- [ ] Quantidade de pessoas no mundo com algum tipo de deficiência.
-- [ ] Quantidade de pessoas no Brasil com algum tipo de deficiência, segundo IBGE.
-- [ ] Natureza da deficiência: congênita, hereditária, adquirida, temporária.
-- [ ] Grupos mais comuns de tipos de deficiência.
-- [ ] Quanto custa a acessibilidade?
-- [ ] Quanto tempo a mais o projeto precisará para implementar acessibilidade?
-- [ ] Quantas pessoas com deficiência vão usar meu aplicativo ou acessar meu sítio de Internet?
-- [ ] Pessoas cegas compram online?
-- [ ] Pessoas tetraplégicas usam smartphone?
-- [ ] Legislação: A Convenção sobre os Direitos das Pessoas com Deficiência Comentada.
-- [ ] Legislação: PORTARIA Nº 3, DE 7 DE MAIO DE 2007.
-- [ ] Análise de mercado de software de acessibilidade digital.
+- [ ] Quantidade de pessoas no mundo com algum tipo de deficiência.  
+- [ ] Quantidade de pessoas no Brasil com algum tipo de deficiência, segundo IBGE.  
+- [ ] Grupos mais comuns de tipos de deficiência.  
+- [ ] Natureza da deficiência: congênita, hereditária, adquirida, temporária.  
+- [ ] Quantas pessoas com deficiência vão usar meu aplicativo ou acessar meu sítio de Internet?  
+- [ ] Pessoas cegas compram online?  
+- [ ] Pessoas tetraplégicas usam smartphone?  
+- [ ] Análise de mercado de software de acessibilidade digital.  
+- [ ] Legislação: A Convenção sobre os Direitos das Pessoas com Deficiência Comentada.  
+- [ ] Legislação: PORTARIA Nº 3, DE 7 DE MAIO DE 2007.  
+- [ ] Quanto custa a acessibilidade?  
+- [ ] Quanto tempo a mais o projeto precisará para implementar acessibilidade?  
 
 # Planejamento
 
