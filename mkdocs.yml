@@ -6,14 +6,19 @@ use_directory_urls: false
 # NAVEGAÇÃO
 nav:
   - 'Início': 'index.md'
+  
   - 'Desenvolvimento Web':
-    - 'Conteúdo não textual': 'devWeb/non_text_content.md'
+    - 'Desenvolvimento': 'devWeb/Desenvolvimento.md'
+    
   - 'Design':
     - 'Princípios de Design': 'design/design.md'
+    
   - 'Geração de Conteúdo':
     - 'Diretrizes de Conteúdo': 'geracaoConteudo/conteudo.md'
+    
   - 'Gestão de Projetos':
     - 'Metodologia': 'gestaoProjeto/gestaoProjeto.md'
+    
   - 'Ferramentas':
     - 'Ferramentas de Acessibilidade': 'tools/ferramentas.md'
 
