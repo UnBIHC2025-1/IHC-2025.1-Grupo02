@@ -1,8 +1,8 @@
-# AcessAAí
+# AcessAí
 
 ## Descrição
 
-O Acessai é um projeto desenvolvido para a disciplina de Interação Humano-Computador (IHC), ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB) que tem como principal objetivo incrementar e aprimorar o [VerificAAA](https://github.com/vitorfleonardo/VerificaAAA), com foco na adição e implementação das normas NBR de acessibilidade.
+O AcessAí é um projeto desenvolvido para a disciplina de Interação Humano-Computador (IHC), ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB) que tem como principal objetivo incrementar e aprimorar o [VerificAAA](https://github.com/vitorfleonardo/VerificaAAA), com foco na adição e implementação das normas NBR de acessibilidade.
 
 Esta iniciativa busca expandir as funcionalidades do projeto original, incorporando as diretrizes e recomendações das normas brasileiras de acessibilidade para garantir avaliações mais completas e conformes com os padrões nacionais.
 
@@ -10,7 +10,7 @@ Esta iniciativa busca expandir as funcionalidades do projeto original, incorpora
 
 O projeto [VerificAAA](https://github.com/vitorfleonardo/VerificaAAA) que serviu como base para este trabalho está disponível em: [https://github.com/vitorfleonardo/VerificaAAA](https://github.com/vitorfleonardo/VerificaAAA)
 
-## Equipe AcessAAí
+## Equipe AcessAí
 
 <table>
   <tr>
