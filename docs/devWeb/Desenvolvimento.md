@@ -1,7 +1,8 @@
 # Desenvolvimento
 
-"Nessa fase, é importante garantir que a equipe de desenvolvimento saiba como implementar acessibilidade, verificá-la e usar as ferramentas disponíveis no mercado para
-testes e padronizações. Também é importante que a equipe saiba como as pessoas com deficiência usam os sítios web e aplicativos". Nesse caso, foram incluídas técnicas relacionadas ao desenvolvimento e também formas de verificar.
+"Nessa fase, é importante garantir que a equipe de desenvolvimento saiba como implementar acessibilidade, verificá-la e usar as ferramentas disponíveis no mercado para testes e padronizações. Também é importante que a equipe saiba como as pessoas com deficiência usam os sítios web e aplicativos". 
+
+Nesse caso, foram incluídas tanto técnicas relacionadas ao desenvolvimento quanto formas de verificação, organizadas com base na ordem construída a partir das referências bibliográficas dos sites consultados, os quais seguem as diretrizes da WCAG.
 
 ## Imagens
 
@@ -25,49 +26,27 @@ testes e padronizações. Também é importante que a equipe saiba como as pesso
 
 ## Formulário
 
-- [ ] <b> Adicionar ``` label ```</b> para os campos de entradas associadas ao elemento correspondente. <a id="TEC9" href="#RP9">[9]</a>
 - [ ] <b> Adicionar ``` <fildset> ``` e ``` <legend> ```</b> para seção no formulário. <a id="TEC4" href="#RP4">[4]</a>
+- [ ] <b> Exibir mensagens de erro e sucesso</b> não só visualmente. <a id="TEC5" href="#RP5">[5]</a>
+- [ ] <b> Adicionar ``` label ```</b> para os campos de entradas associadas ao elemento correspondente. <a id="TEC9" href="#RP9">[9]</a>
 - [ ] <b> Adicionar ``` autocomplete ```</b> para campos de entrada. <a id="TEC10" href="#RP10">[10]</a>
 - [ ] <b> Exibir ``` errors ``` </b> (erros) de entrada acima do formulário, após envio. <a id="TEC11" href="#RP11">[11]</a>
 - [ ] <b> Adicionar ``` aria-describedby ```</b> para os campos de entrada. <a id="TEC11" href="#RP11">[11]</a>
-- [ ] <b> Exibir mensagens de erro e sucesso</b> não só visualmente. <a id="TEC5" href="#RP5">[5]</a>
 
 ## Mídia
 
-- [ ] <b> Impedir ``` autoplay ```</b> para vídeos e audios. <a id="TEC12" href="#RP12">[12]</a>
-- [ ] <b> Adicionar ``` type ```</b> para botões e entradas. <a id="TEC4" href="#RP4">[4]</a>
-- [ ] <b> Adicionar pausa </b> para todas as mídias. <a id="TEC13" href="#RP13">[13]</a>
 - [ ] <b> Adicionar transcrição </b> para audios. <a id="TEC1" href="#RP1">[1]</a>
-
-## Semântica
-
-- [ ] Uso de elementos <b>nativos HTML</b>. 
-- [ ] Fluxo continuo e <b>Lógico</b>. 
-- [ ] Tem <b>descrições</b> que podem ser <b>facilmente compreendidas</b>. 
-- [ ] Tem a <b>semântica correta</b>. 
-- [ ] É <b>objetivo</b> nos <b>rótulos</b>. 
-
-## Texto
-
-- [ ] <b>Evitar</b> o uso de <b>textos dentro de imagens</b>. 
-- [ ] <b>Redimensiona os textos na página</b>, aumentando o zoom em até 200%. 
-- [ ] <b>Alturas </b> das fontes <b> não é fixa </b>. 
-
-## Teclado
-
-- [ ] <b> Funcionalidades </b> da página web estão <b> disponíveis por teclado </b>. 
-- [ ] Quando se tem o <b>mouseover é permitido o uso de teclado </b>. 
-- [ ] <b>Foco visível</b> remova elementos focalizáveis ​​invisíveis. 
-- [ ] Adicione o <b> ``` .hover, .focus { } ```</b>  para tornar o foco visível. 
-- [ ] Permite/visa o uso de <b> Atalhos de teclado </b> como o ```TAB```. 
-- [ ] <b> Primeiro </b> item interativo da página é um link para o <b> conteúdo principal </b>. 
+- [ ] <b> Adicionar ``` type ```</b> para botões e entradas. <a id="TEC4" href="#RP4">[4]</a>
+- [ ] <b> Impedir ``` autoplay ```</b> para vídeos e audios. <a id="TEC12" href="#RP12">[12]</a>
+- [ ] <b> Adicionar pausa </b> para todas as mídias. <a id="TEC13" href="#RP13">[13]</a>
 
 ## Título
 
 - [ ] A <b>hierarquia</b> de conteúdo da página é definida por sua <b>lógica</b> não pelo tamanaho do texto. <a id="TEC17" href="#RP17">[17]</a>
 - [ ] Use <b>elementos de título  ``` h1 h2 h3 ```</b> para apresentar o conteúdo.<a id="TEC17" href="#RP17">[17]</a>
-- [ ] <b>Não pular níveis lógicos</b>.
 - [ ] <b>Toda página contem um título  ``` h1 ```</b> descrevendo a página. <a id="TEC17" href="#RP17">[17]</a></b><a id="TEC19" href="#RP19">[19]</a>
+- [ ] <b>Não pular níveis lógicos</b>. 
+
 
 ## Tabela
 
@@ -90,6 +69,29 @@ testes e padronizações. Também é importante que a equipe saiba como as pesso
 - [ ] <b> Impedir </b> rolagem horizontal. <a id="TEC16" href="#RP15">[16]</a>
 - [ ] <b> Garantir </b> que botões e links possam ser ativados facilmente. <a id="TEC18" href="#RP18">[18]</a>
 
+## Semântica
+
+- [ ] É <b>objetivo</b> nos <b>rótulos</b>. 
+- [ ] Fluxo continuo e <b>Lógico</b>. 
+- [ ] Tem a <b>semântica correta</b>. 
+- [ ] Tem <b>descrições</b> que podem ser <b>facilmente compreendidas</b>. 
+- [ ] Uso de elementos <b>nativos HTML</b>. 
+
+## Texto
+
+- [ ] <b>Alturas </b> das fontes <b> não é fixa </b>. 
+- [ ] <b>Evitar</b> o uso de <b>textos dentro de imagens</b>. 
+- [ ] <b>Redimensiona os textos na página</b>, aumentando o zoom em até 200%. 
+
+## Teclado
+
+- [ ] Adicione o <b> ``` .hover, .focus { } ```</b>  para tornar o foco visível. 
+- [ ] <b> Primeiro </b> item interativo da página é um link para o <b> conteúdo principal </b>. 
+- [ ] <b>Foco visível</b> remova elementos focalizáveis ​​invisíveis. 
+- [ ] <b> Funcionalidades </b> da página web estão <b> disponíveis por teclado </b>. 
+- [ ] Permite/visa o uso de <b> Atalhos de teclado </b> como o ```TAB```. 
+- [ ] Quando se tem o <b>mouseover é permitido o uso de teclado </b>. 
+
 ## Ferramentas e extras
 - [ ] Permiti <b> pausar, parar ou ocultar conteúdo em movimento </b>.
 - [ ] Usar <b> Breadcrumbs </b> informando a localização atual nas páginas.
@@ -97,6 +99,7 @@ testes e padronizações. Também é importante que a equipe saiba como as pesso
 - [ ] Áreas clicáveis com no mínimo <b> 44px (pixels) de altura e 44px de largura </b>.
 - [ ] No caso de <b>captcha</b> garanta que seja simples de entender e tenha alternativas para pessoas com deficiência.
 - [ ] Incluir um <b> campo de busca </b>.
+- [ ] **Evitar** ferramentas com efeito transparente.
 
 ## Referência Bibliográfica
 
