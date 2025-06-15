@@ -1,6 +1,8 @@
 # Geração de conteúdo
 
-"Para produzir conteúdo digital acessível, a primeira etapa é compreender que tudo o que comunicamos impacta as pessoas; por isso, é fundamental começar pela forma como abordamos nosso público e criar a cultura e o hábito de acessibilidade digital em nossas equipes". Nesse sentido, nesta seção se apresentam boas práticas em formato de checklist para garantir acessibilidade na geração de conteúdo.
+"Para produzir conteúdo digital acessível, a primeira etapa é compreender que tudo o que comunicamos impacta as pessoas; por isso, é fundamental começar pela forma como abordamos nosso público e criar a cultura e o hábito de acessibilidade digital em nossas equipes". 
+
+Nesse sentido, nesta seção se apresentam boas práticas em formato de checklist para garantir acessibilidade na geração de conteúdo.
 
 ## Autodescrição
 - [ ] Adionar autodescrição no roteiro dos vídeos
@@ -47,8 +49,8 @@
 - [ ] Evitar frases extensas (ideal é ter de 15 a 20 palavras);
 - [ ] Usar de palavras conhecidas;
 - [ ] Usar exemplos diretos
-- [ ] Usar preferencialmente a ordem direta nas orações;
 - [ ] Usar pontuação adequada;
+- [ ] Usar preferencialmente a ordem direta nas orações;
 - [ ] Usar textos descomplicados e objetivos;
 
 ## Bibliografia
