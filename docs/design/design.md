@@ -32,6 +32,7 @@ Nesta seção, apresenta-se um checklist de diretrizes que garantem a acessibili
 - [ ] <b> Verificar o contraste</b> de todo texto tamanho grande. <a id="TEC9" href="#RP9">[9]</a>
 - [ ] <b> Verificar o texto</b> que se sobrepõe a imagens ou vídeos. <a id="TEC9" href="#RP9">[9]</a>
 - [ ] <b> Verificar ```::selection``` cores</b> personalizadas. <a id="TEC9" href="#RP9">[9]</a>
+- [ ] <b> Verificar o contraste </b> do texto com o fundo. <a id="TEC11" href="#RP11">[11]</a>
 
 ## Referências Bibliograficas
 
