@@ -23,11 +23,13 @@ Nesse caso, foram incluídas tanto técnicas relacionadas ao desenvolvimento qua
 - [ ] <b> Adicionar estados de foco</b> em campos de entrada, botões, e elementos interativos. <a id="TEC6" href="#RP6">[6]</a>
 - [ ] <b> Adicionar skip-link </b> (link para pular) para o conteúdo principal. <a id="TEC7" href="#RP7">[7]</a>
 - [ ] <b> Identifique e comunique </b> links que abrem em uma nova guia ou janela. <a id="TEC8" href="#RP8">[8]</a>
+- [ ] <b> Links evitam textos genéricos </b> ("Clique aqui"). <a id="TEC8" href="#RP8">[8]</a>
 
 ## Formulário
 
 - [ ] <b> Adicionar ``` <fildset> ``` e ``` <legend> ```</b> para seção no formulário. <a id="TEC4" href="#RP4">[4]</a>
 - [ ] <b> Exibir mensagens de erro e sucesso</b> não só visualmente. <a id="TEC5" href="#RP5">[5]</a>
+- [ ] <b> Mensagens de erro </b> em formulários são claras e posicionadas junto ao campo correspondente.<a id="TEC5" href="#RP5">[5]</a>
 - [ ] <b> Adicionar ``` label ```</b> para os campos de entradas associadas ao elemento correspondente. <a id="TEC9" href="#RP9">[9]</a>
 - [ ] <b> Adicionar ``` autocomplete ```</b> para campos de entrada. <a id="TEC10" href="#RP10">[10]</a>
 - [ ] <b> Exibir ``` errors ``` </b> (erros) de entrada acima do formulário, após envio. <a id="TEC11" href="#RP11">[11]</a>
@@ -85,6 +87,7 @@ Nesse caso, foram incluídas tanto técnicas relacionadas ao desenvolvimento qua
 
 ## Teclado
 
+- [ ] Todas as funcionalidades são operáveis apenas via teclado (sem dependência de mouse).  
 - [ ] Adicione o <b> ``` .hover, .focus { } ```</b>  para tornar o foco visível. 
 - [ ] <b> Primeiro </b> item interativo da página é um link para o <b> conteúdo principal </b>. 
 - [ ] <b>Foco visível</b> remova elementos focalizáveis ​​invisíveis. 
@@ -144,3 +147,5 @@ Nesse caso, foram incluídas tanto técnicas relacionadas ao desenvolvimento qua
 ## Bibliografia
 
 > </a> DINIZ, V.; FERRAZ, R.; NASCIMENTO, C. M.; CREDIDIO, R. Guia de Boas Práticas para Acessibilidade Digital. Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital, 2023. Disponível em: [https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf). Acesso em: 9 Mai. 2024.
+
+
