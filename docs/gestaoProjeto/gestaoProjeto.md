@@ -47,6 +47,9 @@ Em seu planejamento, há...
 - [ ] Atividades bem delineadas, cronogramas e atribuições de responsabilidade relacionadas à acessibilidade?
 - [ ] Recursos alocados (pessoas, softwares, cursos, tarefas)?
 - [ ] Tarefas com critérios de sucesso que atendam pelo menos os níveis A e AA, segundo a documentação de acessibilidade (WCAG)?
+- [ ] Políticas documentadas de acessibilidade digital integradas a todas as áreas (RH, Marketing, TI)?
+- [ ] Pessoas com deficiência (PcD) participando ativamente de testes de usabilidade e co-criação de produtos?
+- [ ] Canal aberto para reporte de barreiras de acessibilidade?
 
 ## Referências Bibliográficas
 
@@ -61,3 +64,8 @@ Em seu planejamento, há...
 > </a> MORDOR INTELLIGENCE. Digital Accessibility Software Market Size & Share Analysis- Growth Trends & Forecasts (2024-2029). Disponível em: [https://www.mordorintelligence.com/industry-reports/digital-accessibility-software-market](https://www.mordorintelligence.com/industry-reports/digital-accessibility-software-market). Acesso em: 9 Mai. 2024
 
 > </a> WORLD WIDE WEB CONSORTIUM. Web Content Accessibility Guidelines (WCAG) 2.1. Recomendação W3C, 21 setembro 2023. Disponível em: [https://www.w3.org/TR/WCAG21/#sotd](https://www.w3.org/TR/WCAG21/#sotd). Acesso em: 9 Mai. 2024
+
+>  **BRASIL.** *Guia de Boas Práticas para Acessibilidade Digital.*  Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital. Secretaria de Governo Digital do Ministério da Gestão e Inovação em Serviços Públicos, Ministério da Saúde, Centro de Estudos sobre Tecnologias Web (Ceweb.br) do NIC.br e Movimento Web para Todos. Brasília: 2023.
+
+> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 17225: Acessibilidade — Requisitos para o desenvolvimento de sistemas, produtos e ambientes digitais. Rio de Janeiro: ABNT, 2023.
+
