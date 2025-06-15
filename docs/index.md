@@ -40,4 +40,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](h
 |Versão|Data|Descrição|Autor|
 |------|----|---------|-----|
 |`1.0`|13/06/2025|Criação do documento, com descrição e equipe|[Arthur Evangelista](https://github.com/arthurevg/arthurevg)|
-|`1.1`|15/06/2025|Checklists re-organizados e atualizados|[Gabriel Sampaio](https://github.com/Faehzin)|
+|`1.1`|15/06/2025|Checklists reorganizados conforme ordem de importância, referência bibliográfica e/ou ordem alfabética |[Gabriel Sampaio](https://github.com/Faehzin)|
+|`1.2`|15/06/2025|Checklists atualizados conforme NBR|[Gabriel Sampaio](https://github.com/Faehzin)|
