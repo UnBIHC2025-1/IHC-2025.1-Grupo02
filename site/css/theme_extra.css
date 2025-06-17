@@ -196,3 +196,8 @@ td, th {
     flex: 1;
     text-align: center;
 }
+
+.wy-nav-content {
+    background-color: #f5f5f5 !important;
+}
+
