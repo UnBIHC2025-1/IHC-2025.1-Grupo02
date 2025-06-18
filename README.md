@@ -18,20 +18,21 @@ O checklist é ideal tanto para validação manual quanto como guia durante o de
 
 ## AcessAí
 
-O AcessAí é nome do projeto criado a partir do curso de Interação Humano Computador, ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB). 
+O AcessAí é um projeto desenvolvido para a disciplina de Interação Humano-Computador (IHC), ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB) que tem como principal objetivo incrementar e aprimorar o [VerificAAA](https://github.com/vitorfleonardo/VerificaAAA), com foco na adição e implementação das normas NBR de acessibilidade.
+
+
 
 ## Contribuidores AcessAí
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/arthurevg"><img style="border-radius: 50%;" src="https://github.com/arthurevg.png" width="100px;" alt=""/><br /><sub><b>Arthur Evangelista</b></sub></a><br />
+<td align="center"><a href="https://github.com/arthurevg"><img style="border-radius: 50%;" src="https://github.com/arthurevg.png" width="100px;" alt=""/><br /><sub><b>Arthur Evangelista</b></sub></a><br/>
 <td align="center"><a href="https://github.com/caio-venancio"><img style="border-radius: 50%;" src="https://github.com/caio-venancio.png" width="100px;" alt=""/><br /><sub><b>Caio Venâncio</b></sub></a><br/>
+<td align="center"><a href="https://github.com/brunocrzz"><img style="border-radius: 50%;" src="https://github.com/brunocrzz.png" width="100px;" alt=""/><br /><sub><b>Bruno Cruz</b></sub></a><br/>
 <td align="center"><a href="https://github.com/fabioaletorres"><img style="border-radius: 50%;" src="https://github.com/fabioaletorres.png" width="100px;" alt=""/><br /><sub><b>Fabio Torres</b></sub></a><br/>
 <td align="center"><a href="https://github.com/Faehzin"><img style="border-radius: 50%;" src="https://github.com/Faehzin.png" width="100px;" alt=""/><br /><sub><b>Gabriel Sampaio</b></sub></a><br />   
   </tr>
   </table>
-
-fabioaletorres
 
 ## Equipe VerificAAA
 <table>
@@ -43,3 +44,7 @@ fabioaletorres
     <td align="center"><a href="https://github.com/maykonjuso "><img style="border-radius: 50%;" src="https://github.com/maykonjuso.png" width="100px;" alt=""/><br /><sub><b>Maykon Júnio</b></sub></a><br />
   </tr>
 </table>
+
+## Projeto original
+
+O projeto [VerificAAA](https://github.com/vitorfleonardo/VerificaAAA) que serviu como base para este trabalho está disponível em: [https://github.com/vitorfleonardo/VerificaAAA](https://github.com/vitorfleonardo/VerificaAAA)
