@@ -1,3 +1,7 @@
 .wy-side-nav-search .wy-dropdown>a img.logo, .wy-side-nav-search>a img.logo {
     width: 50% !important;
 }
+
+.wy-side-nav-search {
+    background-color: #b93c29 !important;
+}
