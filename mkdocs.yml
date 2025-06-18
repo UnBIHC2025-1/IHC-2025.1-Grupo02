@@ -21,6 +21,8 @@ nav:
     
   - 'Ferramentas':
     - 'Ferramentas de Acessibilidade': 'tools/ferramentas.md'
+    - 'Heurísticas de Nielsen': 'tools/heuristicas.md'
+    
 
 # TEMA
 theme:
