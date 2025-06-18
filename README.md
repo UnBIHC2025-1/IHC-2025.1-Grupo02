@@ -25,9 +25,13 @@ O AcessAí é nome do projeto criado a partir do curso de Interação Humano Com
 <table>
   <tr>
 <td align="center"><a href="https://github.com/arthurevg"><img style="border-radius: 50%;" src="https://github.com/arthurevg.png" width="100px;" alt=""/><br /><sub><b>Arthur Evangelista</b></sub></a><br />
+<td align="center"><a href="https://github.com/caio-venancio"><img style="border-radius: 50%;" src="https://github.com/caio-venancio.png" width="100px;" alt=""/><br /><sub><b>Caio Venâncio</b></sub></a><br/>
+<td align="center"><a href="https://github.com/fabioaletorres"><img style="border-radius: 50%;" src="https://github.com/fabioaletorres.png" width="100px;" alt=""/><br /><sub><b>Fabio Torres</b></sub></a><br/>
 <td align="center"><a href="https://github.com/Faehzin"><img style="border-radius: 50%;" src="https://github.com/Faehzin.png" width="100px;" alt=""/><br /><sub><b>Gabriel Sampaio</b></sub></a><br />   
   </tr>
   </table>
+
+fabioaletorres
 
 ## Equipe VerificAAA
 <table>
