@@ -4,6 +4,10 @@
 
 Nesse caso, foram incluídas tanto técnicas relacionadas ao desenvolvimento quanto formas de verificação, organizadas com base na ordem construída a partir das referências bibliográficas dos sites consultados, os quais seguem as diretrizes da WCAG.
 
+<div class="chart-container" style="position: relative; height:250px; width:250px; margin: 20px auto;">
+    <canvas class="accessibility-pie-chart"></canvas>
+</div>
+
 ## Imagens
 
 - [ ] <b> Adicionar ``` alt ``` </b> para imagens, botões-imagem, gráficos e imagens de mapas com pontos de acesso. <a id="TEC1" href="#RP1">[1]</a>

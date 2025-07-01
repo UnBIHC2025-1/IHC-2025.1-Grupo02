@@ -4,6 +4,10 @@
 
 Nesta seção, apresenta-se um checklist de diretrizes que garantem a acessibilidade no design, organizado primeiramente conforme a referência dos sites consultados e, em seguida, em ordem alfabética — considerando que todos os tópicos possuem igual importância.
 
+<div class="chart-container" style="position: relative; height:250px; width:250px; margin: 20px auto;">
+    <canvas class="accessibility-pie-chart"></canvas>
+</div>
+
 ## Aparência
 - [ ] <b> Adicionar informação</b> (como gráficos e diagramas) que não <b>dependa exclusivamente da cor</b>. <a id="TEC1" href="#RP1">[1]</a>
 - [ ] <b> Adicionar instrução</b> que não <b>dependa exclusivamente da cor</b>. <a id="TEC1" href="#RP1">[1]</a>

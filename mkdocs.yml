@@ -26,7 +26,11 @@ nav:
 
 # TEMA
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    scheme: default
+    primary: 'red'
+    accent: 'red'
   locale: pt_BR
   logo: imagens/Acessaí.png
   favicon: imagens/Acessaí.png
@@ -38,6 +42,9 @@ markdown_extensions:
       custom_checkbox: false
       clickable_checkbox: true
 
-# CSS EXTRA
 extra_css:
-  - stylesheets/extra.css
+  - css/extra.css # Caminho para o seu arquivo CSS personalizado
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js
+  - js/main.js # Seu JavaScript personalizado

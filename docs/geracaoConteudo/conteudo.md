@@ -4,6 +4,10 @@
 
 Nesse sentido, nesta seção se apresentam boas práticas em formato de checklist para garantir acessibilidade na geração de conteúdo.
 
+<div class="chart-container" style="position: relative; height:250px; width:250px; margin: 20px auto;">
+    <canvas class="accessibility-pie-chart"></canvas>
+</div>
+
 ## Autodescrição
 - [ ] Adionar autodescrição no roteiro dos vídeos
 

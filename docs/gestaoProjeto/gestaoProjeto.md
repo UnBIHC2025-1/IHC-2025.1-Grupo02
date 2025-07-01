@@ -4,6 +4,10 @@
 
 Nessa lógica, durante a etapa inicial do desenvolvimento de um software, elabore personas com os seguintes perfis abaixo, dessa forma, seu projeto vai garantir que o software contenha requisitos de acessibilidade.
 
+<div class="chart-container" style="position: relative; height:250px; width:250px; margin: 20px auto;">
+    <canvas class="accessibility-pie-chart"></canvas>
+</div>
+
 Em seu projeto, foram elaboradas personas para... 
 
 - [ ] <b> Pessoas com Deficiência Auditiva </b> (surdez, baixa audição, surdocegueira)  

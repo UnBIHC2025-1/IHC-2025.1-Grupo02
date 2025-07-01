@@ -1,5 +1,7 @@
 # AcessAí
 
+![Logo do AcessAi, uma lâmpada amarela](imagens/Acessaí.png)
+
 ## Descrição
 
 O AcessAí é um projeto desenvolvido para a disciplina de Interação Humano-Computador (IHC), ministrado pela docente Rejane Maria da Costa Figueiredo, na Universidade de Brasília (UnB) que tem como principal objetivo incrementar e aprimorar o [VerificAAA](https://github.com/vitorfleonardo/VerificaAAA), com foco na adição e implementação das normas NBR de acessibilidade.
