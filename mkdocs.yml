@@ -19,9 +19,10 @@ nav:
   - 'Gestão de Projetos':
     - 'Metodologia': 'gestaoProjeto/gestaoProjeto.md'
     
-  - 'Ferramentas':
+  - 'Material de apoio':
     - 'Ferramentas de Acessibilidade': 'tools/ferramentas.md'
     - 'Heurísticas de Nielsen': 'tools/heuristicas.md'
+    - 'O Design do Dia a Dia': 'tools/odesigndodiaadia.md'
     
 
 # TEMA
