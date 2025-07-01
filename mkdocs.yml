@@ -5,7 +5,7 @@ use_directory_urls: false
 
 # NAVEGAÇÃO
 nav:
-  - 'Início': 'index.md'
+  - 'Início': 'index.md' # Caminhos são relativos à pasta 'docs/'
   
   - 'Desenvolvimento Web':
     - 'Desenvolvimento': 'devWeb/Desenvolvimento.md'
@@ -26,14 +26,14 @@ nav:
 
 # TEMA
 theme:
-  name: material
+  name: material # O tema que você quer usar!
   palette:
     scheme: default
     primary: 'red'
     accent: 'red'
   locale: pt_BR
-  logo: imagens/Acessaí.png
-  favicon: imagens/Acessaí.png
+  logo: imagens/Acessaí.png # Caminho relativo à pasta 'docs/' (onde está 'index.md')
+  favicon: imagens/Acessaí.png # Caminho relativo à pasta 'docs/'
 
 # EXTENSÕES MARKDOWN
 markdown_extensions:
@@ -43,8 +43,8 @@ markdown_extensions:
       clickable_checkbox: true
 
 extra_css:
-  - css/extra.css # Caminho para o seu arquivo CSS personalizado
+  - css/extra.css # Caminho relativo à pasta 'docs/'
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js
-  - js/main.js # Seu JavaScript personalizado
+  - js/main.js # Caminho relativo à pasta 'docs/'

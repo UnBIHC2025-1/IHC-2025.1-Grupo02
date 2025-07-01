@@ -5,15 +5,18 @@ name: Publicar Documentação no GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main # **CONFIRME:** Esta é a sua branch principal? (Ex: main ou master)
+  workflow_dispatch: # Permite disparar o workflow manualmente pela interface do GitHub
 
-# Permissões: Dê ao robô permissão para escrever no repositório
+# Permissões: Dê ao robô as permissões necessárias
 permissions:
-  contents: write
+  contents: write   # Permissão para o workflow escrever arquivos no repositório
+  pages: write      # Permissão para o workflow publicar no GitHub Pages
+  id-token: write   # Necessário para autenticação OIDC com o GitHub Pages
 
 # Tarefas: O que o robô deve fazer?
 jobs:
-  publicar-site:
+  deploy: # Nome da tarefa
     # O tipo de máquina que o robô usará
     runs-on: ubuntu-latest
 
@@ -25,14 +28,24 @@ jobs:
 
       # Passo 2: Configurar o ambiente Python
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Recomendo a versão v5, que é a mais recente e estável
         with:
-          python-version: 3.x
+          python-version: 3.x # **CONFIRME:** Use a versão do Python que você usa localmente (3.9, 3.10, 3.11, etc.)
 
-      # Passo 3: Instalar as dependências
-      - name: Instalar dependências
-        run: pip install mkdocs pymdown-extensions
+      # Passo 3: Instalar as dependências do MkDocs e do tema Material
+      - name: Instalar MkDocs e Material Theme
+        run: |
+          pip install mkdocs mkdocs-material
+          pip install pymdown-extensions # Instala as extensões markdown, se você usar
 
-      # Passo 4: Rodar o comando de publicação
-      - name: Publicar site com MkDocs
-        run: mkdocs gh-deploy --force
+      # Passo 4: CONSTRUIR o site com MkDocs (gera a pasta 'site/' por padrão)
+      - name: Construir site com MkDocs
+        run: mkdocs build # Este comando vai gerar a pasta 'site/' com o tema Material dentro
+
+      # Passo 5: Publicar o site gerado no GitHub Pages
+      - name: Publicar site no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4 # Ação dedicada para deploy no GitHub Pages
+        if: github.ref == 'refs/heads/main' # **CONFIRME:** Condição para deploy (apenas na branch principal)
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site # Informa à ação qual pasta contém o site gerado (que será a pasta 'site/')
