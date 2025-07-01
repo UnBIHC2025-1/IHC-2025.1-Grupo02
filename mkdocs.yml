@@ -32,8 +32,12 @@ theme:
     primary: 'red'
     accent: 'red'
   locale: pt_BR
-  logo: imagens/Acessaí.png
-  favicon: imagens/Acessaí.png
+  logo: imagens/Acessaí.png   # A pasta 'imagens' agora está dentro de 'src'
+  favicon: imagens/Acessaí.png # A pasta 'imagens' agora está dentro de 'src'
+
+docs_dir: src  # <--- INFORMA O MKDOCS ONDE ESTÃO SEUS ARQUIVOS .MD ORIGINAIS
+site_dir: docs # <--- INFORMA O MKDOCS ONDE GERAR O SITE (pasta que o GitHub Pages publica)
+
 
 # EXTENSÕES MARKDOWN
 markdown_extensions:

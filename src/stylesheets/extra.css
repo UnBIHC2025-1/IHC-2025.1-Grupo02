@@ -1,0 +1,11 @@
+.wy-side-nav-search .wy-dropdown>a img.logo, .wy-side-nav-search>a img.logo {
+    width: 50% !important;
+}
+
+.wy-side-nav-search {
+    background-color: #b93c29 !important;
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+    color: #b93c29 !important;
+}
